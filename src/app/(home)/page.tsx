@@ -8,7 +8,7 @@ export default function Home() {
 
   return (
 
-      <Typography> Maminka</Typography>
+      <Typography> Maminka, lubim ta </Typography>
 
   );
 }
