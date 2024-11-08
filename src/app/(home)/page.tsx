@@ -8,7 +8,7 @@ export default function Home() {
 
   return (
 
-      <Typography> Maminka, lubim ta </Typography>
+      <Typography> Toto mi zabralo 4 a pol hodiny volneho casu, mam chut spachat trestny cin </Typography>
 
   );
 }
